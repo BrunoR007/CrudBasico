@@ -1,0 +1,17 @@
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\bin\Debug\net6.0\Filmes.Repository.deps.json
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\bin\Debug\net6.0\Filmes.Repository.runtimeconfig.json
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\bin\Debug\net6.0\Filmes.Repository.dll
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\bin\Debug\net6.0\Filmes.Repository.pdb
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\bin\Debug\net6.0\Filmes.Models.dll
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\bin\Debug\net6.0\Filmes.Models.pdb
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.csproj.AssemblyReference.cache
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.AssemblyInfoInputs.cache
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.AssemblyInfo.cs
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.csproj.CopyComplete
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.dll
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\refint\Filmes.Repository.dll
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.pdb
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\Filmes.Repository.genruntimeconfig.cache
+C:\Users\Distrito\source\repos\Filmes1\Filmes.Repository\obj\Debug\net6.0\ref\Filmes.Repository.dll

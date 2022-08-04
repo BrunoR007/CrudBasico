@@ -1,0 +1,12 @@
+C:\Users\Distrito\source\repos\Filmes1\Actors\bin\Debug\net6.0\Filmes.Models.deps.json
+C:\Users\Distrito\source\repos\Filmes1\Actors\bin\Debug\net6.0\Filmes.Models.dll
+C:\Users\Distrito\source\repos\Filmes1\Actors\bin\Debug\net6.0\Filmes.Models.pdb
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\Filmes.Models.csproj.AssemblyReference.cache
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\Filmes.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\Filmes.Models.AssemblyInfoInputs.cache
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\Filmes.Models.AssemblyInfo.cs
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\Filmes.Models.csproj.CoreCompileInputs.cache
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\Filmes.Models.dll
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\refint\Filmes.Models.dll
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\Filmes.Models.pdb
+C:\Users\Distrito\source\repos\Filmes1\Actors\obj\Debug\net6.0\ref\Filmes.Models.dll
